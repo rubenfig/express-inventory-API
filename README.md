@@ -2,7 +2,7 @@
 
 Demo REST API made with Express.js and MongoDB with JWT based authentication.
 
-Note: This project is for demonstration and learning purposes only.
+**Note:** This project is for demonstration and learning purposes only.
 
 ## Features
 
